@@ -1,3 +1,2 @@
-id,log_mbh_val,log_mbh_err_down,log_mbh_err_up
-RUBIES-UDS 40579,8.29,0.06,0.05
-RUBIES-EGS 42046,8.47,0.02,0.02
+id,ra,dec,zspec,log_mbh
+RUBIES-UDS 40579,34.244190,-5.245834,3.103,"$8.29_{-0.06}^{+0.05}$"
