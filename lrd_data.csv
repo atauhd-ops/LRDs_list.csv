@@ -1,2 +1,2 @@
 id,ra,dec,zspec,log_mbh,log_mstar,lrd,reference
-RUBIES-UDS 40579,34.244190,-5.245834,3.103,"$8.29_{-0.06}^{+0.05}$",8.09,1,Jones et al. (2025)
+RUBIES-UDS 40579,34.244190,-5.245834,3.103,8.29+0.05/-0.06,8.09,1,Jones et al. (2025)
